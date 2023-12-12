@@ -1,6 +1,8 @@
 {
     "name": "artiden/exchange",
+    "description": "Done transaction commissions calculator",
     "type": "project",
+    "license": "Apache-2.0",
     "autoload": {
         "psr-4": {
             "artiden\\exchange\\": "src/"
